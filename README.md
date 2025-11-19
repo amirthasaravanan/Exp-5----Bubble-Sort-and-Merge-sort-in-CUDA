@@ -12,7 +12,7 @@ Hardware – PCs with NVIDIA GPU & CUDA NVCC, Google Colab with NVCC Compiler, C
 
 ## PROCEDURE:
 
-Tasks:
+Tasks: 
 
 a. Modify the Kernel:
 
